@@ -1,5 +1,5 @@
-# product_testcase
-Caso Practico Entrevista Product Owner
+# Caso Practico Entrevista Product Owner
+
 Este repositorio contiene un caso práctico anonimizado desarrollado por Marta Muñoz Barrios, diseñado para demostrar competencias clave en la gestión técnica de producto (Technical Product Management) dentro de un entorno de comercio electrónico y alta transaccionalidad.
 🎯 Propósito del Documento
 El objetivo de este proyecto es ilustrar cómo se aborda el ciclo de vida de una funcionalidad compleja de backend y la gestión de crisis en producción, desde la definición de la oportunidad de negocio hasta la solución técnica y la observabilidad.
