@@ -1,17 +1,8 @@
 # Caso Practico Entrevista Product Owner
 
 Este repositorio contiene un caso práctico anonimizado desarrollado por Marta Muñoz Barrios, diseñado para demostrar competencias clave en la gestión técnica de producto (Technical Product Management) dentro de un entorno de comercio electrónico y alta transaccionalidad.
-🎯 Propósito del Documento
 El objetivo de este proyecto es ilustrar cómo se aborda el ciclo de vida de una funcionalidad compleja de backend y la gestión de crisis en producción, desde la definición de la oportunidad de negocio hasta la solución técnica y la observabilidad.
-El caso cubre dos escenarios principales:
-1. Evolución de Producto: Modificación de Reservas Temporales en el Checkout.
-2. Gestión de Incidencias: Resolución de una caída de conversión y degradación de rendimiento.
-🛠 Habilidades Demostradas
-• Definición de APIs y Contratos de Interfaz: Diseño de nuevos endpoints y documentación técnica (Swagger).
-• Gestión de Stakeholders: Coordinación entre Negocio, Arquitectura, QA, Seguridad y equipos de desarrollo.
-• Roadmap y Priorización: Desglose en iteraciones (MVP, Reporting Asíncrono, Observabilidad).
-• User Stories Técnicas: Criterios de aceptación detallados para servicios de Backend (Checkout, Stock) y Frontend.
-• Observabilidad y SRE: Definición de KPIs, dashboards (Grafana/Prometheus) y estrategias de mitigación de incidentes.
+
 
 **📄 Resumen del Contenido**
 **Caso 1: Modificación de Reservas Temporales (RT)**
@@ -28,7 +19,7 @@ Solución Propuesta: Implementación de una lógica de actualización (updateRes
 2. Mitigación: Rollback inmediato de despliegues recientes, escalado temporal de infraestructura y activación de mecanismos de bypass.
 3. Coordinación: Comunicación basada en datos con stakeholders y ejecución de análisis post-mortem para evitar regresiones.
 
-👤** Sobre la Autora**
+👤**Sobre la Autora**
 Marta Muñoz Barrios es Product & Delivery Manager con más de 8 años de experiencia liderando el desarrollo de productos digitales en sectores como IoT, Energía y Telco. Especializada en traducir necesidades de negocio en soluciones técnicas efectivas, integración de APIs y metodologías Ágiles.
 
 <img width="1391" height="781" alt="image" src="https://github.com/user-attachments/assets/9e239afa-adb1-4707-a138-0c3d67df336b" />
